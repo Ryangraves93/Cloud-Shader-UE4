@@ -735,3 +735,847 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.12-17.04.08:295][629]MaterialEditorStats: Base pass vertex shader: 165 instructions
 [2020.12.12-17.04.08:295][629]MaterialEditorStats: Texture samplers: 4/16
 [2020.12.12-17.04.08:303][629]LogSlate: Took 0.001315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.12-17.10.35:633][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.12.12-17.10.39:695][778]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.10.41:029][891]Cmd: TRANSACTION UNDO
+[2020.12.12-17.10.41:029][891]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.12.12-17.10.41:060][891]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.10.41:108][892]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.10.41:108][892]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.10.41:108][892]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.10.41:254][896]Cmd: TRANSACTION UNDO
+[2020.12.12-17.10.41:254][896]LogEditorTransaction: Undo Scale Actors
+[2020.12.12-17.10.41:256][896]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.10.41:551][903]Cmd: TRANSACTION UNDO
+[2020.12.12-17.10.41:551][903]LogEditorTransaction: Undo Scale Actors
+[2020.12.12-17.10.41:554][903]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.10.41:917][930]Cmd: TRANSACTION UNDO
+[2020.12.12-17.10.41:918][930]LogEditorTransaction: Undo Move Actors
+[2020.12.12-17.10.41:921][930]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.10.42:512][972]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.12.12-17.10.44:251][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.12.12-17.10.45:445][182]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-17.10.45:466][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-17.10.45:466][182]PIE: New page: PIE session: Untitled_1 (12 Dec 2020, 17:10:45)
+[2020.12.12-17.10.45:466][182]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.10.45:470][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003222s)
+[2020.12.12-17.10.45:471][182]LogAIModule: Creating AISystem for world Untitled_1
+[2020.12.12-17.10.45:471][182]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025916232800), frame # 21182
+[2020.12.12-17.10.45:471][182]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000259162CD940), frame # 21182
+[2020.12.12-17.10.45:472][182]LogPlayLevel: PIE: World Init took: (0.001800s)
+[2020.12.12-17.10.45:472][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005182s)
+[2020.12.12-17.10.45:482][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.12.12-17.10.45:485][182]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.10.45:485][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-17.10.45:485][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-17.10.45:485][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-17.10.45:485][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-17.10.45:485][182]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-17.10.45:485][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-17.10.45:485][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-17.10.45:485][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-17.10.45:486][182]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-17.10.45:486][182]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-17.10.45:495][182]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-17.10.45:495][182]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-17.10.45:520][182]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.12.12-17.10.45:520][182]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.12.12-17.10.45:520][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-17.10.45:520][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-17.10.45:520][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-17.10.45:520][182]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-17.10.45:531][182]LogInit: FAudioDevice initialized.
+[2020.12.12-17.10.45:538][182]LogLoad: Game class is 'GameModeBase'
+[2020.12.12-17.10.45:540][182]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.12.12-17.10.45
+[2020.12.12-17.10.45:540][182]LogWorld: Bringing up level for play took: 0.001233
+[2020.12.12-17.10.45:541][182]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.12.12-17.10.45:545][182]PIE: Server logged in
+[2020.12.12-17.10.45:546][182]PIE: Play in editor total start time 0.08 seconds.
+[2020.12.12-17.10.46:182][221]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.12.12-17.10.46:683][266]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.12.12-17.10.47:964][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.12.12-17.10.48:469][428]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.12.12-17.10.50:335][597]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2020.12.12-17.10.50:335][597]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.10.50:335][597]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.10.51:610][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.10.51:610][729]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.10.51:610][729]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-17.10.51:610][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.10.51:622][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-17.10.51:623][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.10.51:646][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.10.51:647][729]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025916232800), frame # 21729
+[2020.12.12-17.10.51:647][729]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000259162CD940), frame # 21729
+[2020.12.12-17.10.51:648][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.12-17.10.51:712][731]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.12.12-17.10.52:336][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.12.12-17.11.01:277][628]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.11.09:983][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.12.12-17.11.13:760][868]Cmd: TRANSACTION UNDO
+[2020.12.12-17.11.13:760][868]LogEditorTransaction: Undo Scale Actors
+[2020.12.12-17.11.13:763][868]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.11.13:798][869]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.11.13:798][869]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.11.13:798][869]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.11.15:883][ 18]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.12.12-17.11.17:017][101]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.12.12-17.11.17:156][111]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.12.12-17.11.17:473][131]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.11.18:091][171]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.12.12-17.11.18:141][175]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.12.12-17.11.20:474][371]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2020.12.12-17.11.20:474][371]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.11.20:474][371]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.11.31:953][529]LogRenderer: Reallocating scene render targets to support 1472x752 Format 10 NumSamples 1 (Frame:7534).
+[2020.12.12-17.11.32:040][530]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:7537).
+[2020.12.12-17.11.32:981][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.12.12-17.11.34:171][767]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.13.06:751][225]Cmd: SELECT NONE
+[2020.12.12-17.13.07:351][295]Cmd: SELECT NONE
+[2020.12.12-17.13.17:410][237]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.13.17:421][237]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.13.17:422][237]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.13.17:422][237]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.13.17:423][237]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.12.12-17.13.18:207][321]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.13.18:216][321]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.12.12-17.13.18:222][321]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.12-17.13.19:032][404]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.12-17.13.20:799][575]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.12.12-17.13.21:797][681]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.12.12-17.13.22:236][726]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.12.12-17.13.23:511][854]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.12.12-17.13.24:246][927]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.12.12-17.13.24:774][980]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.12.12-17.13.25:413][ 45]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.12.12-17.13.26:958][204]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.12.12-17.13.27:214][231]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.12.12-17.13.27:232][232]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2020.12.12-17.13.27:232][232]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.13.27:232][232]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.13.28:153][323]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.12.12-17.13.28:658][376]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.12.12-17.13.34:762][ 50]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.13.34:774][ 50]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.13.34:774][ 50]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.13.34:774][ 50]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.13.34:776][ 50]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.12.12-17.13.34:784][ 50]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.13.36:192][185]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.12-17.13.37:619][330]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.13.37:631][330]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.12.12-17.13.37:640][330]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.13.37:707][336]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.12.12-17.13.38:037][371]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.13.38:051][371]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.12.12-17.13.38:058][371]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.13.38:072][372]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.12-17.13.38:564][425]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2020.12.12-17.13.39:578][527]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.12.12-17.13.39:789][549]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.12.12-17.13.40:497][618]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.13.40:688][635]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.13.40:697][635]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.12.12-17.13.40:707][635]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.13.41:272][692]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.12-17.13.41:865][753]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.12.12-17.13.42:937][865]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.12.12-17.13.44:198][995]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.12.12-17.13.44:211][996]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.12.12-17.13.44:930][ 73]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.13.46:224][207]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.12.12-17.13.46:254][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.12.12-17.13.47:790][370]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.12.12-17.13.48:090][400]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.12.12-17.13.49:044][496]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.12.12-17.13.49:136][505]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.12-17.13.51:094][706]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2020.12.12-17.13.51:094][706]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.13.51:094][706]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.14.23:446][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.12.12-17.14.23:451][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../Users/ryang/Perforce/Cloud/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.12-17.14.23:487][370]LogSavePackage: Moving '../../../../../Users/ryang/Perforce/Cloud/Saved/Untitled_1_Auto17AEF2FB0404752A894F8CD80C6A61791.tmp' to '../../../../../Users/ryang/Perforce/Cloud/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.12.12-17.14.23:495][370]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.057
+[2020.12.12-17.14.23:495][370]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.057
+[2020.12.12-17.14.41:475][501]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.14.41:481][501]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.14.41:481][501]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.14.41:481][501]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.14.41:482][501]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.14.43:070][664]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.12.12-17.14.44:022][762]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.12.12-17.14.45:104][874]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.14.45:697][938]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.12.12-17.14.46:620][ 31]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.12.12-17.14.46:969][ 69]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.12.12-17.14.47:678][144]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.12.12-17.14.47:910][170]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.12.12-17.14.49:688][352]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2020.12.12-17.14.49:688][352]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.14.49:688][352]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.14.52:964][709]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.14.52:970][709]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.14.52:988][710]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.14.52:988][710]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.14.52:988][710]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.14.54:235][829]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.12.12-17.14.55:422][942]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.12.12-17.14.55:626][963]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.12.12-17.14.56:433][ 44]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.12.12-17.14.56:732][ 70]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.12.12-17.14.58:555][250]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2020.12.12-17.14.58:555][250]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.14.58:555][250]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.15.12:186][467]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.12-17.15.12:553][468]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.12.12-17.20.46:633][934]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.20.46:646][934]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.12.12-17.20.46:650][934]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.20.46:650][934]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.20.46:650][934]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.20.46:653][934]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.20.48:024][ 85]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.12-17.20.49:262][213]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.12.12-17.20.49:530][240]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.12.12-17.20.50:827][372]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.12.12-17.20.50:977][388]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.12.12-17.20.51:894][484]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.20.52:805][578]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.12.12-17.20.53:659][665]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.12.12-17.20.54:626][763]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.12.12-17.20.54:782][780]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.12.12-17.20.55:776][884]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.12.12-17.20.55:853][892]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.12-17.20.58:350][136]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2020.12.12-17.20.58:350][136]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.20.58:350][136]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.21.03:173][699]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.21.03:181][699]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.12.12-17.21.03:187][699]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.12.12-17.21.03:187][699]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.12.12-17.21.03:187][699]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.12.12-17.21.03:188][699]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.21.04:710][856]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.12-17.21.05:979][980]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.12.12-17.21.06:538][ 40]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.12.12-17.21.07:389][128]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.12.12-17.21.08:244][214]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.12.12-17.21.08:568][246]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.21.09:044][295]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.12.12-17.21.10:240][416]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.12.12-17.21.12:197][606]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.12.12-17.21.12:355][622]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.12.12-17.21.12:387][625]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.12.12-17.21.13:765][767]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.12-17.21.15:311][920]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2020.12.12-17.21.15:311][920]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.21.15:311][920]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.22.01:722][496]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.22.01:731][496]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.22.01:732][496]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.22.01:732][496]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.22.01:733][496]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2020.12.12-17.22.01:741][496]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.22.01:961][516]LogMaterialEditor: Saving and Compiling material m_Cloud
+[2020.12.12-17.22.02:649][516]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.12-17.22.02:663][516]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.22.02:701][516]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.22.02:719][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.12.12-17.22.02:730][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.12-17.22.03:295][516]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.12.12-17.22.03:295][516]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.12.12-17.22.03:856][516]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.12.12-17.22.03:856][516]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.12.12-17.22.04:417][516]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.12.12-17.22.04:417][516]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.12.12-17.22.04:417][516]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.12.12-17.22.04:969][516]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.12.12-17.22.04:969][516]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.12.12-17.22.05:524][516]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.12.12-17.22.05:524][516]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.12.12-17.22.05:524][516]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.12.12-17.22.05:942][516]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.12.12-17.22.05:942][516]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2020.12.12-17.22.05:942][516]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.12.12-17.22.05:942][516]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.12.12-17.22.05:954][516]TextureStreamingBuild: Display: Compiling optional shaders took 3.231 seconds.
+[2020.12.12-17.22.05:964][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.12-17.22.07:135][516]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.12.12-17.22.07:839][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_Cloud" FILE="../../../../../Users/ryang/Perforce/Cloud/Content/Materials/m_Cloud.uasset" SILENT=true
+[2020.12.12-17.22.07:868][516]LogSavePackage: Moving '../../../../../Users/ryang/Perforce/Cloud/Saved/m_Cloud8C1A46CD4BAA339E75EAACB332A22985.tmp' to '../../../../../Users/ryang/Perforce/Cloud/Content/Materials/m_Cloud.uasset'
+[2020.12.12-17.22.07:894][516]AssetCheck: New page: Asset Save: m_Cloud
+[2020.12.12-17.22.07:894][516]LogContentValidation: Display: Validating Material /Game/Materials/m_Cloud.m_Cloud
+[2020.12.12-17.22.07:895][516]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2020.12.12-17.22.07:895][516]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.22.07:895][516]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.23.01:911][928]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.23.01:921][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.23.01:921][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.23.01:921][928]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.23.01:922][928]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2020.12.12-17.23.01:930][928]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.23.02:124][947]LogMaterialEditor: Saving and Compiling material m_Cloud
+[2020.12.12-17.23.02:707][947]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.12-17.23.02:721][947]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.23.02:760][947]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.23.02:778][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.12-17.23.02:784][947]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.12-17.23.03:340][947]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2020.12.12-17.23.03:340][947]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2020.12.12-17.23.03:890][947]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2020.12.12-17.23.03:890][947]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.12.12-17.23.04:451][947]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.12.12-17.23.04:451][947]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2020.12.12-17.23.04:451][947]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.12.12-17.23.05:012][947]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.12.12-17.23.05:012][947]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.12.12-17.23.05:012][947]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.12.12-17.23.05:572][947]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.12.12-17.23.05:572][947]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.12.12-17.23.06:023][947]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 11
+[2020.12.12-17.23.06:023][947]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.12.12-17.23.06:023][947]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.12.12-17.23.06:023][947]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.12.12-17.23.06:027][947]TextureStreamingBuild: Display: Compiling optional shaders took 3.247 seconds.
+[2020.12.12-17.23.06:036][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.12-17.23.07:180][947]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.12-17.23.07:793][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_Cloud" FILE="../../../../../Users/ryang/Perforce/Cloud/Content/Materials/m_Cloud.uasset" SILENT=true
+[2020.12.12-17.23.07:809][947]LogSavePackage: Moving '../../../../../Users/ryang/Perforce/Cloud/Saved/m_Cloud77547C1045ACA6D789527F87DBC33C1B.tmp' to '../../../../../Users/ryang/Perforce/Cloud/Content/Materials/m_Cloud.uasset'
+[2020.12.12-17.23.07:832][947]AssetCheck: New page: Asset Save: m_Cloud
+[2020.12.12-17.23.07:832][947]LogContentValidation: Display: Validating Material /Game/Materials/m_Cloud.m_Cloud
+[2020.12.12-17.23.07:837][947]MaterialEditorStats: Base pass shader without light map: 111 instructions
+[2020.12.12-17.23.07:837][947]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.23.07:837][947]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.23.28:662][375]LogMaterialEditor: Saving and Compiling material m_Cloud
+[2020.12.12-17.23.28:677][375]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.23.28:685][375]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2020.12.12-17.23.28:689][375]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.23.28:689][375]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.23.28:689][375]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.23.28:693][375]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.23.28:710][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_Cloud" FILE="../../../../../Users/ryang/Perforce/Cloud/Content/Materials/m_Cloud.uasset" SILENT=true
+[2020.12.12-17.23.28:722][375]LogSavePackage: Moving '../../../../../Users/ryang/Perforce/Cloud/Saved/m_Cloud33D659DC44F8B5C97287CE9249729281.tmp' to '../../../../../Users/ryang/Perforce/Cloud/Content/Materials/m_Cloud.uasset'
+[2020.12.12-17.23.28:731][375]AssetCheck: New page: Asset Save: m_Cloud
+[2020.12.12-17.23.28:731][375]LogContentValidation: Display: Validating Material /Game/Materials/m_Cloud.m_Cloud
+[2020.12.12-17.23.30:643][568]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.12-17.23.31:052][605]LogMaterialEditor: Saving and Compiling material m_Cloud
+[2020.12.12-17.23.31:642][605]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.12.12-17.23.31:642][605]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.12.12-17.23.31:655][605]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.23.31:684][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.12.12-17.23.31:692][605]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.23.31:709][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.12-17.23.31:716][605]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.12-17.23.32:276][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.12.12-17.23.32:836][605]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2020.12.12-17.23.32:836][605]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2020.12.12-17.23.32:836][605]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.12.12-17.23.33:397][605]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2020.12.12-17.23.33:397][605]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2020.12.12-17.23.33:397][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.12.12-17.23.33:958][605]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.12.12-17.23.33:958][605]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.12-17.23.33:958][605]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.12.12-17.23.34:278][605]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.12.12-17.23.34:278][605]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.23.34:278][605]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.12.12-17.23.34:281][605]TextureStreamingBuild: Display: Compiling optional shaders took 2.570 seconds.
+[2020.12.12-17.23.34:290][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.12-17.23.35:448][605]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.12-17.23.36:157][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_Cloud" FILE="../../../../../Users/ryang/Perforce/Cloud/Content/Materials/m_Cloud.uasset" SILENT=true
+[2020.12.12-17.23.36:173][605]LogSavePackage: Moving '../../../../../Users/ryang/Perforce/Cloud/Saved/m_CloudE53518A8408B7F1ED723DB970C99DABE.tmp' to '../../../../../Users/ryang/Perforce/Cloud/Content/Materials/m_Cloud.uasset'
+[2020.12.12-17.23.36:196][605]AssetCheck: New page: Asset Save: m_Cloud
+[2020.12.12-17.23.36:197][605]LogContentValidation: Display: Validating Material /Game/Materials/m_Cloud.m_Cloud
+[2020.12.12-17.23.36:197][605]MaterialEditorStats: Base pass shader without light map: 112 instructions
+[2020.12.12-17.23.36:197][605]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.23.36:197][605]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.23.52:517][522]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.23.52:539][524]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.23.52:539][524]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.23.52:539][524]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.23.53:698][634]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.12.12-17.23.55:013][759]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.12.12-17.23.55:063][764]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.12.12-17.23.55:660][820]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.12.12-17.23.56:007][854]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.12-17.23.57:634][ 23]MaterialEditorStats: Base pass shader without light map: 112 instructions
+[2020.12.12-17.23.57:634][ 23]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.23.57:634][ 23]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.24.12:216][741]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.24.13:705][748]LogSlate: Window 'Save Level As' being destroyed
+[2020.12.12-17.24.15:046][884]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-17.24.15:062][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-17.24.15:062][884]PIE: New page: PIE session: Untitled_1 (12 Dec 2020, 17:24:15)
+[2020.12.12-17.24.15:083][884]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.24.15:086][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003202s)
+[2020.12.12-17.24.15:087][884]LogAIModule: Creating AISystem for world Untitled_1
+[2020.12.12-17.24.15:087][884]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025901E5B800), frame # 62884
+[2020.12.12-17.24.15:088][884]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002591D4D47C0), frame # 62884
+[2020.12.12-17.24.15:088][884]LogPlayLevel: PIE: World Init took: (0.001949s)
+[2020.12.12-17.24.15:088][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005372s)
+[2020.12.12-17.24.15:096][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.12-17.24.15:099][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-17.24.15:099][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-17.24.15:099][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-17.24.15:099][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-17.24.15:099][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-17.24.15:099][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-17.24.15:099][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-17.24.15:099][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-17.24.15:099][884]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-17.24.15:099][884]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-17.24.15:106][884]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-17.24.15:106][884]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-17.24.15:129][884]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.12.12-17.24.15:129][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-17.24.15:129][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-17.24.15:129][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-17.24.15:129][884]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-17.24.15:140][884]LogInit: FAudioDevice initialized.
+[2020.12.12-17.24.15:150][884]LogLoad: Game class is 'GameModeBase'
+[2020.12.12-17.24.15:151][884]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.12.12-17.24.15
+[2020.12.12-17.24.15:151][884]LogWorld: Bringing up level for play took: 0.000686
+[2020.12.12-17.24.15:151][884]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.12.12-17.24.15:154][884]PIE: Server logged in
+[2020.12.12-17.24.15:155][884]PIE: Play in editor total start time 0.094 seconds.
+[2020.12.12-17.24.16:655][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.24.16:655][ 53]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.24.16:655][ 53]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-17.24.16:655][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.24.16:663][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-17.24.16:665][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.24.16:689][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.24.16:689][ 53]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002591D4D47C0), frame # 63053
+[2020.12.12-17.24.16:689][ 53]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025901E5B800), frame # 63053
+[2020.12.12-17.24.16:690][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.12-17.24.16:727][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.12.12-17.24.20:039][427]LogMaterialEditor: Applying material m_Cloud
+[2020.12.12-17.24.20:587][427]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.24.20:618][427]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.24.20:618][427]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.24.20:619][427]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.24.20:627][427]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.24.20:643][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.12-17.24.20:650][427]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.12-17.24.21:213][427]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.12.12-17.24.21:773][427]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.12.12-17.24.21:773][427]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.12.12-17.24.22:331][427]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.12.12-17.24.22:331][427]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.12.12-17.24.22:331][427]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.12.12-17.24.22:331][427]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.12.12-17.24.22:705][427]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2020.12.12-17.24.22:705][427]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.12.12-17.24.22:706][427]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.12.12-17.24.22:708][427]TextureStreamingBuild: Display: Compiling optional shaders took 2.064 seconds.
+[2020.12.12-17.24.22:718][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.12-17.24.25:621][694]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.12-17.24.28:480][  3]MaterialEditorStats: Base pass shader without light map: 112 instructions
+[2020.12.12-17.24.28:480][  3]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.24.28:480][  3]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.24.30:028][187]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Sphere)
+[2020.12.12-17.24.43:495][598]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.12.12-17.24.46:580][943]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.12.12-17.24.47:799][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-17.24.47:815][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-17.24.47:815][ 69]PIE: New page: PIE session: Untitled_1 (12 Dec 2020, 17:24:47)
+[2020.12.12-17.24.47:854][ 69]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.24.47:857][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002461s)
+[2020.12.12-17.24.47:858][ 69]LogAIModule: Creating AISystem for world Untitled_1
+[2020.12.12-17.24.47:858][ 69]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002592690A600), frame # 66069
+[2020.12.12-17.24.47:858][ 69]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002598228EAC0), frame # 66069
+[2020.12.12-17.24.47:858][ 69]LogPlayLevel: PIE: World Init took: (0.001854s)
+[2020.12.12-17.24.47:859][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004523s)
+[2020.12.12-17.24.47:867][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.12-17.24.47:869][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-17.24.47:869][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-17.24.47:869][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-17.24.47:869][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-17.24.47:869][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-17.24.47:869][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-17.24.47:869][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-17.24.47:869][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-17.24.47:870][ 69]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-17.24.47:870][ 69]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-17.24.47:876][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-17.24.47:876][ 69]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-17.24.47:894][ 69]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.12.12-17.24.47:894][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-17.24.47:894][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-17.24.47:894][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-17.24.47:895][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-17.24.47:907][ 69]LogInit: FAudioDevice initialized.
+[2020.12.12-17.24.47:919][ 69]LogLoad: Game class is 'GameModeBase'
+[2020.12.12-17.24.47:920][ 69]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.12.12-17.24.47
+[2020.12.12-17.24.47:920][ 69]LogWorld: Bringing up level for play took: 0.000640
+[2020.12.12-17.24.47:920][ 69]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.12.12-17.24.47:923][ 69]PIE: Server logged in
+[2020.12.12-17.24.47:924][ 69]PIE: Play in editor total start time 0.109 seconds.
+[2020.12.12-17.24.54:374][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.24.54:374][827]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.24.54:375][827]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-17.24.54:375][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.24.54:385][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-17.24.54:386][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.24.54:409][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.24.54:410][827]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002598228EAC0), frame # 66827
+[2020.12.12-17.24.54:410][827]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002592690A600), frame # 66827
+[2020.12.12-17.24.54:411][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.12-17.24.54:444][828]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.12.12-17.24.55:902][988]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.25.06:341][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-17.25.06:357][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-17.25.06:358][ 14]PIE: New page: PIE session: Untitled_1 (12 Dec 2020, 17:25:06)
+[2020.12.12-17.25.06:393][ 14]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.25.06:396][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002446s)
+[2020.12.12-17.25.06:397][ 14]LogAIModule: Creating AISystem for world Untitled_1
+[2020.12.12-17.25.06:397][ 14]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025916233400), frame # 68014
+[2020.12.12-17.25.06:397][ 14]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002598200EC00), frame # 68014
+[2020.12.12-17.25.06:398][ 14]LogPlayLevel: PIE: World Init took: (0.001760s)
+[2020.12.12-17.25.06:398][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004386s)
+[2020.12.12-17.25.06:406][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.12-17.25.06:408][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-17.25.06:408][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-17.25.06:408][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-17.25.06:408][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-17.25.06:408][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-17.25.06:408][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-17.25.06:408][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-17.25.06:408][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-17.25.06:409][ 14]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-17.25.06:409][ 14]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-17.25.06:415][ 14]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-17.25.06:415][ 14]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-17.25.06:434][ 14]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.12.12-17.25.06:435][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-17.25.06:435][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-17.25.06:435][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-17.25.06:435][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-17.25.06:449][ 14]LogInit: FAudioDevice initialized.
+[2020.12.12-17.25.06:456][ 14]LogLoad: Game class is 'GameModeBase'
+[2020.12.12-17.25.06:457][ 14]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.12.12-17.25.06
+[2020.12.12-17.25.06:457][ 14]LogWorld: Bringing up level for play took: 0.000721
+[2020.12.12-17.25.06:457][ 14]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.12.12-17.25.06:460][ 14]PIE: Server logged in
+[2020.12.12-17.25.06:461][ 14]PIE: Play in editor total start time 0.104 seconds.
+[2020.12.12-17.25.15:605][ 92]Cmd: LevelEditor.ToggleImmersive
+[2020.12.12-17.25.30:474][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.25.30:474][854]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.25.30:474][854]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-17.25.30:474][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.25.30:496][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-17.25.30:497][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.25.30:506][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.25.30:522][854]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002598200EC00), frame # 70854
+[2020.12.12-17.25.30:522][854]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025916233400), frame # 70854
+[2020.12.12-17.25.30:523][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.12.12-17.25.30:557][855]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.12.12-17.25.31:504][951]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.25.32:190][ 11]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.25.33:008][ 90]Cmd: SELECT NONE
+[2020.12.12-17.25.34:411][237]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.25.36:254][430]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.25.36:691][471]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.25.40:761][897]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.25.44:630][306]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.26.03:282][494]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.26.03:326][495]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.26.03:326][495]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.26.03:326][495]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.26.05:098][683]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.12.12-17.26.06:618][816]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.12.12-17.26.06:729][826]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.12.12-17.26.08:212][974]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.12.12-17.26.08:221][975]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.12.12-17.26.10:460][191]MaterialEditorStats: Base pass shader without light map: 112 instructions
+[2020.12.12-17.26.10:460][191]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.26.10:460][191]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.26.25:265][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.12-17.26.27:071][940]LogSlate: Window 'Save Level As' being destroyed
+[2020.12.12-17.26.54:512][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.12.12-17.26.54:514][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../Users/ryang/Perforce/Cloud/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.12-17.26.54:542][338]LogSavePackage: Moving '../../../../../Users/ryang/Perforce/Cloud/Saved/Untitled_1_Auto27BE51D314D26D5496CD9FE8ABD3E590F.tmp' to '../../../../../Users/ryang/Perforce/Cloud/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2020.12.12-17.26.54:544][338]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.041
+[2020.12.12-17.26.54:544][338]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.041
+[2020.12.12-17.26.54:545][338]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/m_Cloud] ([1] browsable assets)...
+[2020.12.12-17.26.54:576][338]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/m_Cloud.m_Cloud]
+[2020.12.12-17.26.54:576][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/m_Cloud]
+[2020.12.12-17.26.54:576][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_Cloud" FILE="../../../../../Users/ryang/Perforce/Cloud/Saved/Autosaves/Game/Materials/m_Cloud_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.12.12-17.26.54:592][338]LogSavePackage: Moving '../../../../../Users/ryang/Perforce/Cloud/Saved/m_Cloud_Auto2EEB77CE842FD2EC47FDD4A9D0E957E92.tmp' to '../../../../../Users/ryang/Perforce/Cloud/Saved/Autosaves/Game/Materials/m_Cloud_Auto2.uasset'
+[2020.12.12-17.26.54:593][338]LogFileHelpers: Auto-saving content packages took 0.048
+[2020.12.12-17.27.07:005][579]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-17.27.07:020][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-17.27.07:021][579]PIE: New page: PIE session: Untitled_1 (12 Dec 2020, 17:27:07)
+[2020.12.12-17.27.07:021][579]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.27.07:023][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002693s)
+[2020.12.12-17.27.07:025][579]LogAIModule: Creating AISystem for world Untitled_1
+[2020.12.12-17.27.07:025][579]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025915D0B600), frame # 77579
+[2020.12.12-17.27.07:025][579]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025925056AC0), frame # 77579
+[2020.12.12-17.27.07:025][579]LogPlayLevel: PIE: World Init took: (0.001516s)
+[2020.12.12-17.27.07:025][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004349s)
+[2020.12.12-17.27.07:033][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.12-17.27.07:035][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-17.27.07:035][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-17.27.07:035][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-17.27.07:035][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-17.27.07:035][579]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-17.27.07:035][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-17.27.07:035][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-17.27.07:035][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-17.27.07:036][579]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-17.27.07:036][579]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-17.27.07:043][579]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-17.27.07:043][579]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-17.27.07:063][579]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.12.12-17.27.07:064][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-17.27.07:064][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-17.27.07:064][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-17.27.07:064][579]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-17.27.07:076][579]LogInit: FAudioDevice initialized.
+[2020.12.12-17.27.07:086][579]LogLoad: Game class is 'GameModeBase'
+[2020.12.12-17.27.07:087][579]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.12.12-17.27.07
+[2020.12.12-17.27.07:087][579]LogWorld: Bringing up level for play took: 0.000630
+[2020.12.12-17.27.07:088][579]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.12.12-17.27.07:090][579]PIE: Server logged in
+[2020.12.12-17.27.07:091][579]PIE: Play in editor total start time 0.071 seconds.
+[2020.12.12-17.27.20:493][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.27.20:493][150]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.27.20:493][150]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-17.27.20:493][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.27.20:498][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-17.27.20:499][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.27.20:507][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.27.20:522][150]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025925056AC0), frame # 79150
+[2020.12.12-17.27.20:522][150]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025915D0B600), frame # 79150
+[2020.12.12-17.27.20:523][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.12-17.27.20:591][152]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.12.12-17.27.31:075][342]MapCheck: New page: Map Check
+[2020.12.12-17.27.31:092][342]LightingResults: New page: Lighting Build - 12 Dec 2020, 17:27:31
+[2020.12.12-17.27.31:151][342]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.12-17.27.31:229][342]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.12-17.27.31:246][342]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.12-17.27.35:350][342]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2020.12.12-17.27.35:376][342]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4+Licensee\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2020.12.12-17.27.40:385][342]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.12-17.27.40:386][342]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13260
+[2020.12.12-17.27.45:035][342]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.12.12-17.27.45:036][342]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.12-17.27.45:036][342]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.12-17.27.45:036][342]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.12-17.27.45:036][342]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.12-17.27.45:036][342]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.12-17.27.45:285][342]LogEditorBuildUtils: Build time 0:14
+[2020.12.12-17.27.45:298][342]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2020.12.12-17.27.45:304][342]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2020.12.12-17.27.45:327][343]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.12.12-17.27.45:327][343]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.12.12-17.27.45:329][343]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.12.12-17.27.45:334][343]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.12.12-17.27.45:339][343]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.12.12-17.27.45:339][343]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_Cloud, compiling. 
+[2020.12.12-17.27.45:343][343]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_Cloud, compiling. 
+[2020.12.12-17.27.47:980][344]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.12.12-17.27.47:980][344]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2020.12.12-17.27.47:980][344]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.12.12-17.27.47:981][344]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.12.12-17.27.48:287][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.12.12-17.27.50:772][462]Job is a success!
+[2020.12.12-17.27.53:625][754]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2020.12.12-17.27.53:625][754]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.12-17.27.53:625][754]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.12.12-17.27.53:625][754]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.12-17.27.53:625][754]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.12.12-17.27.53:626][754]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.12.12-17.27.53:626][754]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.12.12-17.27.53:626][754]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.12-17.27.53:626][754]LogVolumetricLightmapImport:          Untitled_1 			 6 bricks 	 100.0% (Persistent Level)
+[2020.12.12-17.27.53:715][754]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.12.12-17.27.53:715][754]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.12.12-17.27.53:715][754]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.12.12-17.27.53:715][754]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.12.12-17.27.53:715][754]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.12.12-17.27.53:716][754]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2020.12.12-17.27.53:716][754]LogStaticLightingSystem: Untitled_1_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2020.12.12-17.27.53:727][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.12-17.27.53:729][754]Lightmass on DESKTOP-DQH0546: 4.04 sec total, 216 ms importing, 22 ms setup, 95 ms photons, 3.58 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 14.3 sec total, 415 ms processing.
+[2020.12.12-17.27.53:743][754]LogStaticLightingSystem: Illumination: 19.8 sec (30 ms encoding lightmaps, 23 ms encoding shadowmaps)
+[2020.12.12-17.27.53:743][754]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.12.12-17.27.53:743][754]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.12.12-17.27.54:055][754]DumpUnbuiltLightIteractions
+[2020.12.12-17.27.54:055][754]Lights with unbuilt interactions: 0
+[2020.12.12-17.27.54:055][754]
+[2020.12.12-17.27.54:055][754]Primitives with unbuilt interactions: 0
+[2020.12.12-17.27.54:121][755]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.12-17.27.54:121][755]MapCheck: New page: Untitled_1 - 12 Dec 2020, 17:27:54
+[2020.12.12-17.27.54:123][755]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.321ms to complete.
+[2020.12.12-17.27.57:766][175]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-17.27.57:782][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-17.27.57:782][175]PIE: New page: PIE session: Untitled_1 (12 Dec 2020, 17:27:57)
+[2020.12.12-17.27.57:822][175]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.27.57:825][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002509s)
+[2020.12.12-17.27.57:826][175]LogAIModule: Creating AISystem for world Untitled_1
+[2020.12.12-17.27.57:826][175]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000259831A5600), frame # 81175
+[2020.12.12-17.27.57:826][175]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002592721A840), frame # 81175
+[2020.12.12-17.27.57:826][175]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2020.12.12-17.27.57:826][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004107s)
+[2020.12.12-17.27.57:835][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.12.12-17.27.57:837][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-17.27.57:837][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-17.27.57:837][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-17.27.57:837][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-17.27.57:837][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-17.27.57:837][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-17.27.57:837][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-17.27.57:837][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-17.27.57:838][175]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-17.27.57:838][175]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-17.27.57:843][175]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-17.27.57:843][175]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-17.27.57:863][175]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.12.12-17.27.57:864][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-17.27.57:864][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-17.27.57:864][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-17.27.57:865][175]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-17.27.57:878][175]LogInit: FAudioDevice initialized.
+[2020.12.12-17.27.57:887][175]LogLoad: Game class is 'GameModeBase'
+[2020.12.12-17.27.57:888][175]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.12.12-17.27.57
+[2020.12.12-17.27.57:888][175]LogWorld: Bringing up level for play took: 0.000630
+[2020.12.12-17.27.57:889][175]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.12.12-17.27.57:891][175]PIE: Server logged in
+[2020.12.12-17.27.57:892][175]PIE: Play in editor total start time 0.11 seconds.
+[2020.12.12-17.28.07:153][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.28.07:153][276]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.28.07:153][276]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-17.28.07:153][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.28.07:158][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-17.28.07:160][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.28.07:184][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.28.07:185][276]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002592721A840), frame # 82276
+[2020.12.12-17.28.07:185][276]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000259831A5600), frame # 82276
+[2020.12.12-17.28.07:185][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.12-17.28.07:251][278]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.12.12-17.28.08:239][395]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.28.13:452][932]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-17.28.13:468][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-17.28.13:468][932]PIE: New page: PIE session: Untitled_1 (12 Dec 2020, 17:28:13)
+[2020.12.12-17.28.13:468][932]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.28.13:471][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002413s)
+[2020.12.12-17.28.13:472][932]LogAIModule: Creating AISystem for world Untitled_1
+[2020.12.12-17.28.13:473][932]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000259163EFA00), frame # 82932
+[2020.12.12-17.28.13:473][932]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002592721BEC0), frame # 82932
+[2020.12.12-17.28.13:473][932]LogPlayLevel: PIE: World Init took: (0.001832s)
+[2020.12.12-17.28.13:473][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004413s)
+[2020.12.12-17.28.13:481][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.12-17.28.13:483][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-17.28.13:483][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-17.28.13:483][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-17.28.13:483][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-17.28.13:483][932]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-17.28.13:483][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-17.28.13:483][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-17.28.13:483][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-17.28.13:484][932]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-17.28.13:484][932]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-17.28.13:489][932]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-17.28.13:489][932]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-17.28.13:508][932]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.12.12-17.28.13:508][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-17.28.13:508][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-17.28.13:508][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-17.28.13:508][932]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-17.28.13:521][932]LogInit: FAudioDevice initialized.
+[2020.12.12-17.28.13:533][932]LogLoad: Game class is 'GameModeBase'
+[2020.12.12-17.28.13:534][932]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.12.12-17.28.13
+[2020.12.12-17.28.13:534][932]LogWorld: Bringing up level for play took: 0.000689
+[2020.12.12-17.28.13:534][932]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.12.12-17.28.13:537][932]PIE: Server logged in
+[2020.12.12-17.28.13:537][932]PIE: Play in editor total start time 0.07 seconds.
+[2020.12.12-17.28.18:493][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.28.18:493][495]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.28.18:493][495]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-17.28.18:494][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.28.18:500][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-17.28.18:502][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.28.18:510][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.28.18:526][495]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002592721BEC0), frame # 83495
+[2020.12.12-17.28.18:526][495]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000259163EFA00), frame # 83495
+[2020.12.12-17.28.18:527][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.12-17.28.18:559][496]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.12.12-17.28.19:245][575]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.12-17.28.22:808][954]Cmd: TRANSACTION UNDO
+[2020.12.12-17.28.22:808][954]LogEditorTransaction: Undo Scale Actors
+[2020.12.12-17.28.22:811][954]LogMaterial: Display: Missing cached shader map for material m_Cloud, compiling. 
+[2020.12.12-17.28.22:820][954]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.12.12-17.28.22:820][954]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.12.12-17.28.22:820][954]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.12.12-17.28.24:627][ 91]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.12.12-17.28.25:892][190]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.12.12-17.28.26:165][215]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.12.12-17.28.27:031][289]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.12.12-17.28.27:361][321]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.12.12-17.28.29:447][495]MaterialEditorStats: Base pass shader without light map: 112 instructions
+[2020.12.12-17.28.29:447][495]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2020.12.12-17.28.29:447][495]MaterialEditorStats: Texture samplers: 4/16
+[2020.12.12-17.28.31:041][665]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.12-17.28.31:057][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.12-17.28.31:057][665]PIE: New page: PIE session: Untitled_1 (12 Dec 2020, 17:28:31)
+[2020.12.12-17.28.31:082][665]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.28.31:084][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002548s)
+[2020.12.12-17.28.31:085][665]LogAIModule: Creating AISystem for world Untitled_1
+[2020.12.12-17.28.31:086][665]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002591F96A800), frame # 84665
+[2020.12.12-17.28.31:086][665]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025920FD7100), frame # 84665
+[2020.12.12-17.28.31:086][665]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2020.12.12-17.28.31:086][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004149s)
+[2020.12.12-17.28.31:095][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.12-17.28.31:097][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.12-17.28.31:097][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.12-17.28.31:097][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.12-17.28.31:097][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.12-17.28.31:097][665]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.12-17.28.31:097][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.12-17.28.31:097][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.12-17.28.31:097][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.12-17.28.31:097][665]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.12-17.28.31:097][665]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.12-17.28.31:103][665]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.12-17.28.31:103][665]LogAudioMixer: Display: 1: FrontRight
+[2020.12.12-17.28.31:121][665]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.12.12-17.28.31:122][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.12-17.28.31:122][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.12-17.28.31:122][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.12-17.28.31:122][665]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.12-17.28.31:135][665]LogInit: FAudioDevice initialized.
+[2020.12.12-17.28.31:145][665]LogLoad: Game class is 'GameModeBase'
+[2020.12.12-17.28.31:147][665]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.12.12-17.28.31
+[2020.12.12-17.28.31:147][665]LogWorld: Bringing up level for play took: 0.000685
+[2020.12.12-17.28.31:147][665]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.12.12-17.28.31:149][665]PIE: Server logged in
+[2020.12.12-17.28.31:150][665]PIE: Play in editor total start time 0.094 seconds.
+[2020.12.12-17.28.38:378][513]Cmd: LevelEditor.ToggleImmersive
+[2020.12.12-17.28.42:892][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.28.42:892][ 33]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.12.12-17.28.42:893][ 33]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.12-17.28.42:893][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.28.42:909][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.12-17.28.42:911][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.12-17.28.42:936][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.12-17.28.42:936][ 33]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025920FD7100), frame # 86033
+[2020.12.12-17.28.42:937][ 33]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002591F96A800), frame # 86033
+[2020.12.12-17.28.42:937][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.12-17.28.42:971][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_12
